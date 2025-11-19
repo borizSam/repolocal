@@ -3,7 +3,7 @@ name: Commit Logger
 on:
   push:
     branches: ["main"]
-  workflow_dispatch:
+  ##workflow_dispatch:
 
 jobs:
   log-commits:
