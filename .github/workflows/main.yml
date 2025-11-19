@@ -1,4 +1,4 @@
-name: Commit Logger
+name: Hello World
 
 on:
   push:
